@@ -1,3 +1,26 @@
+Durst Post
+
+```markdown
+20201002 RWBN News Block 0 - Fred Durst a Red, White and Blue News Review
+
+What is Fred Durst up to? We asked Fox News, The Russian News Agency, and Good Housekeeping for their biases answers
+
+# The Red - Stars Who Made Bank from the Sex Tapes [Link](https://www.foxnews.com/entertainment/stars-who-made-bank-from-their-sex-tapes)
+- **Fred's filmed romp was reportedly stolen from him and unintentionally released, but Fred benefited**
+- Fox News, Reuters
+
+## The White - Limp Bizkit frontman received no response on Russian citizenship request [Link](https://tass.com/society/837271)
+- **the musician told TASS he would like to get a Russian passport without rejected his US citizenship. "I want to spend at least half of my time here," Durst said**
+- The Russian News Agency, TASS
+
+### The BLue - 'Masked Singer' Fans Are Certain Giraffe Is Fred Durst [Link](https://www.msn.com/en-us/tv/news/masked-singer-fans-are-certain-giraffe-is-fred-durst/ar-BB19mq8q)
+- **Fred served in the U.S. Navy before trying to become a tattoo artist**
+- Good Housekeeping via MSN, Selena Barrientos
+
+```
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/anotherdrew/rwbn.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
